@@ -1,10 +1,10 @@
 # Lab Report 1
 
-In order to login to the *ieng6*, you will need the password. If you do not have that, you will need to reset the password first at [Link](https://sdacs.ucsd.edu/~icc/index.php).
+In order to login to the *ieng6*, you will need the password. If you do not have that, you will need to reset the password first at [Password Reset](https://sdacs.ucsd.edu/~icc/index.php).
 
 **Installing VSCode**
 
-First go to this link here and click "Install for windows" button. https://code.visualstudio.com/
+First go to this link here and click "Install for windows" button. [Intallation](https://code.visualstudio.com/)
 
 ![image](https://user-images.githubusercontent.com/122576152/212597779-82f0c751-0a12-468a-8a9f-17d983915c16.png)
 
