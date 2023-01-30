@@ -1,6 +1,6 @@
 # Lab Report 1
 
-In order to login to the *ieng6*, you will need the password. If you do not have that, you will need to reset the password first at https://sdacs.ucsd.edu/~icc/index.php.
+In order to login to the *ieng6*, you will need the password. If you do not have that, you will need to reset the password first at [Link](https://sdacs.ucsd.edu/~icc/index.php).
 
 **Installing VSCode**
 
@@ -25,6 +25,7 @@ Once you connect you should recieve this in your terminal
 
 try out some of these commands once logged into the remote server. 
 
+'''
 cd ~
 
 cd
@@ -32,6 +33,7 @@ cd
 ls -lat
 
 ls -a
+'''
 
 ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
   
