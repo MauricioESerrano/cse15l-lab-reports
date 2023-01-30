@@ -1,7 +1,9 @@
 # Lab Report 2
 
 **Part 1**
+
 Code body
+
 <img width="764" alt="image" src="https://user-images.githubusercontent.com/122576152/215393511-c6c89459-3726-4f05-97fc-4ebffddfb731.png">
 
 The body checks everything after the "/". It goes through everything checking for specific instances. First it looks for add-message, then for "?"
