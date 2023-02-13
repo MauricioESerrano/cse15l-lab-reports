@@ -46,7 +46,7 @@ Here I used Horses as the string.
 
 In both instances, I used the -w command. The -w allows the user to find whole words instances of their desired string in .txt files. The -w command does not work in directories. If a match is found, it returns the text in which the string was found in highlighted red. Unfortunately you can not see the highlight, but rest assured it is red in the terminal. This command is case sensitive and if the word is encompassed in another word, like "apple" and "pineapple", it will not refrence the "pineapple" as a valid word. 
 
-I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide]https://linux.die.net/man/1/grep . 
+I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide](https://linux.die.net/man/1/grep) . 
 
 
 **Grep example 3**
@@ -60,7 +60,7 @@ I used chatGPT in order to find this command, and the sources it refrenced is [L
 
 Here are two examples back to back. In this instance, the -c command allows the user to return the number of times the string was found. Horses was found once, whereas Hollywood was found twice. This is useful in the case where you want to see how many times a word as been repeated. However the drawback is that it does not refrence where it was found in lines. 
 
-I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide]https://linux.die.net/man/1/grep . 
+I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide](https://linux.die.net/man/1/grep) . 
 
 **Grep example 4**
 
@@ -83,6 +83,6 @@ Here I used the word Cowboys as my second example. Similarly notice the capitual
 
 Whereas -w finds whole words and IS case- sensitive, -i is not case-senstive and finds the word even if it is encumbered in another word. This also means that no matter how I typed my word, it will find it. This is particularly useful in the case where my first word is both the first word of a sentence, and when it is not. It is also will find my word even if its a part of another word, like "holly" is found in "hollywood". 
 
-I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide]https://linux.die.net/man/1/grep . 
+I used chatGPT in order to find this command, and the sources it refrenced is [Linux guide](https://linux.die.net/man/1/grep) . 
 
 
