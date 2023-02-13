@@ -76,7 +76,7 @@ Here i'm using -i to find the word Hollywood. Notice the case-sensitive-ness of 
 [cs15lwi23auj@ieng6-203]:skill-demo1-data:501$ grep -i "CoWBoY" written_2/non-fiction/OUP/Castro/chV.txt
 Vaqueros (Cowboys)
 The vaquero was the early Hispano cowboy and the antecedent of the Hollywood cowboy. ...
-```
+``
 
 Here I used the word Cowboys as my second example. Similarly notice the capitualization of the string in the command. 
 
