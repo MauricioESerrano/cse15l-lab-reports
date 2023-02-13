@@ -13,7 +13,6 @@ written_2/travel_guides/berlitz2/California-WhereToGo.txt
 Here we are looking for the file that contains the word "pickles" in /written_2/
 
 ``
-
 [cs15lwi23auj@ieng6-203]:skill-demo1-data:484$ grep -rl "symmetrical"
 written_2/non-fiction/OUP/Kauffman/ch10.txt
 written_2/non-fiction/OUP/Rybczynski/ch3.txt
