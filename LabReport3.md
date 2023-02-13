@@ -7,7 +7,6 @@
 written_2/travel_guides/berlitz1/WhereToJapan.txt
 written_2/travel_guides/berlitz2/Beijing-WhereToGo.txt
 written_2/travel_guides/berlitz2/California-WhereToGo.txt
-
 ``
 
 
