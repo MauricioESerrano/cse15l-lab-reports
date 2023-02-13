@@ -19,12 +19,7 @@ written_2/non-fiction/OUP/Kauffman/ch10.txt
 written_2/non-fiction/OUP/Rybczynski/ch3.txt
 written_2/travel_guides/berlitz1/WhereToEdinburgh.txt
 written_2/travel_guides/berlitz1/WhereToFrance.txt
-written_2/travel_guides/berlitz1/WhereToIndia.txt
-written_2/travel_guides/berlitz1/WhereToMadrid.txt
-written_2/travel_guides/berlitz2/Athens-WhereToGo.txt
-written_2/travel_guides/berlitz2/Canada-WhereToGo.txt
-written_2/travel_guides/berlitz2/China-WhereToGo.txt
-written_2/travel_guides/berlitz2/Cuba-WhereToGo.txt
+...
 ``
 
 Here we are using the command to find files that contain "symmetrical". 
