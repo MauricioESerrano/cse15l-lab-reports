@@ -14,7 +14,12 @@ The only values that changes was parseInt and int because we no longer are deali
 that it fit that. 
 
 Using /add-message technique
+
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/122576152/215393544-539092c3-ca93-4d11-8c9f-cfebdd58fa18.png">
+
+I only have one method called "HandleRequest" which runs everytime and checks several conditions. First it checks whether everything after the "/" is included, 
+and that there is nothing additional there. In this instance, it is specifically checking for "add-message?s=" . Parameter[1] refers to the actual string the user inputed. That is the variable string, meaning that it can change everytime. Another value that is changed is input. Input is contantly being concatenated with every new Parameter[1] string. The "\n" refers to the new line that the input must print the new parameter[1] in. Aside from those two mentioned, no other value or variable gets changed. No value needs to be changed because all we are trying to do is simply add new text from user input onto the local host and record all previous inputs. 
+
 
 **Part 2**
 
