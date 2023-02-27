@@ -12,9 +12,9 @@ These keys allowed me to first login to the remote server.
 ![image](https://user-images.githubusercontent.com/122576152/221480709-b27e3f65-87ad-4c91-92d6-bbb6c0d72dbc.png)
 
 **Step 5**
-
+```
 <cntrl + c> https://github.com/ucsd-cse15l-w23/lab7.git
-
+```
 ```
 git clone <right click> 
 <enter>
