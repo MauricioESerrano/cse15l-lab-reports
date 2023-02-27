@@ -2,9 +2,10 @@
 
 **Step 4**
 
-``
+```
 ssh cs15lwi23auj@ieng6.ucsd.edu
 <enter>
+```
 
 These keys allowed me to first login to the remote server.
 
